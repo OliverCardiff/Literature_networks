@@ -1,0 +1,356 @@
+<graph label="Cytoscape Web" directed="0" Graphic="1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML">
+<att name="documentVersion" value="0.1"/>
+<node id="GO:45165" label="cell fate commitment">
+	<att type="string" name="description" value="cell fate commitment"/>
+	<att type="real" name="value" value="-1.905"/>
+	<att type="real" name="log_size" value="4.067"/>
+	<att type="real" name="uniqueness" value="0.668"/>
+	<att type="real" name="dispensability" value="0.621"/>
+	<graphics type="ELLIPSE" x="-87.960" y="-132.459" fill="#ff7d7d"/>
+</node>
+<node id="GO:9966" label="regulation of signal transduction">
+	<att type="string" name="description" value="regulation of signal transduction"/>
+	<att type="real" name="value" value="-1.815"/>
+	<att type="real" name="log_size" value="5.041"/>
+	<att type="real" name="uniqueness" value="0.660"/>
+	<att type="real" name="dispensability" value="0.224"/>
+	<graphics type="ELLIPSE" x="136.325" y="-66.705" fill="#ff8383"/>
+</node>
+<node id="GO:1709" label="cell fate determination">
+	<att type="string" name="description" value="cell fate determination"/>
+	<att type="real" name="value" value="-2.180"/>
+	<att type="real" name="log_size" value="3.273"/>
+	<att type="real" name="uniqueness" value="0.686"/>
+	<att type="real" name="dispensability" value="0.497"/>
+	<graphics type="ELLIPSE" x="-92.463" y="-143.468" fill="#ff6a6a"/>
+</node>
+<node id="GO:80" label="mitotic G1 phase">
+	<att type="string" name="description" value="mitotic G1 phase"/>
+	<att type="real" name="value" value="-1.372"/>
+	<att type="real" name="log_size" value="2.671"/>
+	<att type="real" name="uniqueness" value="1.000"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-145.176" y="61.536" fill="#ffa2a2"/>
+</node>
+<node id="GO:7091" label="metaphase/anaphase transition of mitotic cell cycle">
+	<att type="string" name="description" value="metaphase/anaphase transition of mitotic cell cycle"/>
+	<att type="real" name="value" value="-2.630"/>
+	<att type="real" name="log_size" value="3.979"/>
+	<att type="real" name="uniqueness" value="0.662"/>
+	<att type="real" name="dispensability" value="0.326"/>
+	<graphics type="ELLIPSE" x="44.335" y="-49.320" fill="#ff4b4b"/>
+</node>
+<node id="GO:7398" label="ectoderm development">
+	<att type="string" name="description" value="ectoderm development"/>
+	<att type="real" name="value" value="-1.369"/>
+	<att type="real" name="log_size" value="2.768"/>
+	<att type="real" name="uniqueness" value="0.795"/>
+	<att type="real" name="dispensability" value="0.544"/>
+	<graphics type="ELLIPSE" x="-80.839" y="-176.550" fill="#ffa2a2"/>
+</node>
+<node id="GO:16339" label="calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules">
+	<att type="string" name="description" value="calcium-dependent cell-cell adhesion via plasma membrane cell adhesion molecules"/>
+	<att type="real" name="value" value="-1.569"/>
+	<att type="real" name="log_size" value="2.707"/>
+	<att type="real" name="uniqueness" value="0.958"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-74.568" y="132.549" fill="#ff9494"/>
+</node>
+<node id="GO:51272" label="positive regulation of cellular component movement">
+	<att type="string" name="description" value="positive regulation of cellular component movement"/>
+	<att type="real" name="value" value="-3.723"/>
+	<att type="real" name="log_size" value="4.015"/>
+	<att type="real" name="uniqueness" value="0.552"/>
+	<att type="real" name="dispensability" value="0.562"/>
+	<graphics type="ELLIPSE" x="81.819" y="-85.014" fill="#ff0000"/>
+</node>
+<node id="GO:6518" label="peptide metabolism">
+	<att type="string" name="description" value="peptide metabolism"/>
+	<att type="real" name="value" value="-2.349"/>
+	<att type="real" name="log_size" value="5.884"/>
+	<att type="real" name="uniqueness" value="0.876"/>
+	<att type="real" name="dispensability" value="0.479"/>
+	<graphics type="ELLIPSE" x="47.890" y="143.315" fill="#ff5f5f"/>
+</node>
+<node id="GO:6465" label="signal peptide processing">
+	<att type="string" name="description" value="signal peptide processing"/>
+	<att type="real" name="value" value="-2.307"/>
+	<att type="real" name="log_size" value="3.809"/>
+	<att type="real" name="uniqueness" value="0.885"/>
+	<att type="real" name="dispensability" value="0.023"/>
+	<graphics type="ELLIPSE" x="47.317" y="134.617" fill="#ff6161"/>
+</node>
+<node id="GO:9653" label="anatomical structure morphogenesis">
+	<att type="string" name="description" value="anatomical structure morphogenesis"/>
+	<att type="real" name="value" value="-2.139"/>
+	<att type="real" name="log_size" value="5.296"/>
+	<att type="real" name="uniqueness" value="0.746"/>
+	<att type="real" name="dispensability" value="0.543"/>
+	<graphics type="ELLIPSE" x="-88.076" y="-164.978" fill="#ff6d6d"/>
+</node>
+<node id="GO:51057" label="positive regulation of small GTPase mediated signal transduction">
+	<att type="string" name="description" value="positive regulation of small GTPase mediated signal transduction"/>
+	<att type="real" name="value" value="-1.599"/>
+	<att type="real" name="log_size" value="3.366"/>
+	<att type="real" name="uniqueness" value="0.658"/>
+	<att type="real" name="dispensability" value="0.693"/>
+	<graphics type="ELLIPSE" x="137.536" y="-72.950" fill="#ff9292"/>
+</node>
+<node id="GO:51123" label="RNA polymerase II transcriptional preinitiation complex assembly">
+	<att type="string" name="description" value="RNA polymerase II transcriptional preinitiation complex assembly"/>
+	<att type="real" name="value" value="-2.450"/>
+	<att type="real" name="log_size" value="3.599"/>
+	<att type="real" name="uniqueness" value="0.799"/>
+	<att type="real" name="dispensability" value="0.308"/>
+	<graphics type="ELLIPSE" x="75.865" y="87.452" fill="#ff5858"/>
+</node>
+<node id="GO:9395" label="phospholipid catabolism">
+	<att type="string" name="description" value="phospholipid catabolism"/>
+	<att type="real" name="value" value="-1.485"/>
+	<att type="real" name="log_size" value="3.740"/>
+	<att type="real" name="uniqueness" value="0.786"/>
+	<att type="real" name="dispensability" value="0.649"/>
+	<graphics type="ELLIPSE" x="-145.679" y="-28.305" fill="#ff9a9a"/>
+</node>
+<node id="GO:8361" label="regulation of cell size">
+	<att type="string" name="description" value="regulation of cell size"/>
+	<att type="real" name="value" value="-2.644"/>
+	<att type="real" name="log_size" value="3.749"/>
+	<att type="real" name="uniqueness" value="0.695"/>
+	<att type="real" name="dispensability" value="0.170"/>
+	<graphics type="ELLIPSE" x="37.203" y="-24.676" fill="#ff4a4a"/>
+</node>
+<node id="GO:48009" label="insulin-like growth factor receptor signaling pathway">
+	<att type="string" name="description" value="insulin-like growth factor receptor signaling pathway"/>
+	<att type="real" name="value" value="-1.386"/>
+	<att type="real" name="log_size" value="2.948"/>
+	<att type="real" name="uniqueness" value="0.727"/>
+	<att type="real" name="dispensability" value="0.534"/>
+	<graphics type="ELLIPSE" x="168.663" y="-53.083" fill="#ffa1a1"/>
+</node>
+<node id="GO:15893" label="drug transport">
+	<att type="string" name="description" value="drug transport"/>
+	<att type="real" name="value" value="-1.734"/>
+	<att type="real" name="log_size" value="4.458"/>
+	<att type="real" name="uniqueness" value="0.800"/>
+	<att type="real" name="dispensability" value="0.340"/>
+	<graphics type="ELLIPSE" x="191.536" y="11.136" fill="#ff8989"/>
+</node>
+<node id="GO:46488" label="phosphatidylinositol metabolism">
+	<att type="string" name="description" value="phosphatidylinositol metabolism"/>
+	<att type="real" name="value" value="-1.847"/>
+	<att type="real" name="log_size" value="3.720"/>
+	<att type="real" name="uniqueness" value="0.759"/>
+	<att type="real" name="dispensability" value="0.154"/>
+	<graphics type="ELLIPSE" x="-131.042" y="-41.019" fill="#ff8181"/>
+</node>
+<node id="GO:6266" label="DNA ligation">
+	<att type="string" name="description" value="DNA ligation"/>
+	<att type="real" name="value" value="-2.180"/>
+	<att type="real" name="log_size" value="4.115"/>
+	<att type="real" name="uniqueness" value="0.897"/>
+	<att type="real" name="dispensability" value="0.098"/>
+	<graphics type="ELLIPSE" x="119.775" y="125.961" fill="#ff6a6a"/>
+</node>
+<node id="GO:40011" label="locomotion">
+	<att type="string" name="description" value="locomotion"/>
+	<att type="real" name="value" value="-2.260"/>
+	<att type="real" name="log_size" value="5.107"/>
+	<att type="real" name="uniqueness" value="0.958"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-100.319" y="84.603" fill="#ff6565"/>
+</node>
+<node id="GO:40012" label="regulation of locomotion">
+	<att type="string" name="description" value="regulation of locomotion"/>
+	<att type="real" name="value" value="-2.349"/>
+	<att type="real" name="log_size" value="4.372"/>
+	<att type="real" name="uniqueness" value="0.689"/>
+	<att type="real" name="dispensability" value="0.684"/>
+	<graphics type="ELLIPSE" x="125.318" y="-137.361" fill="#ff5f5f"/>
+</node>
+<node id="GO:45661" label="regulation of myoblast differentiation">
+	<att type="string" name="description" value="regulation of myoblast differentiation"/>
+	<att type="real" name="value" value="-2.450"/>
+	<att type="real" name="log_size" value="3.195"/>
+	<att type="real" name="uniqueness" value="0.605"/>
+	<att type="real" name="dispensability" value="0.165"/>
+	<graphics type="ELLIPSE" x="-16.033" y="-137.011" fill="#ff5858"/>
+</node>
+<node id="GO:50678" label="regulation of epithelial cell proliferation">
+	<att type="string" name="description" value="regulation of epithelial cell proliferation"/>
+	<att type="real" name="value" value="-2.167"/>
+	<att type="real" name="log_size" value="3.850"/>
+	<att type="real" name="uniqueness" value="0.681"/>
+	<att type="real" name="dispensability" value="0.182"/>
+	<graphics type="ELLIPSE" x="100.149" y="-150.664" fill="#ff6b6b"/>
+</node>
+<node id="GO:40007" label="growth">
+	<att type="string" name="description" value="growth"/>
+	<att type="real" name="value" value="-1.704"/>
+	<att type="real" name="log_size" value="4.609"/>
+	<att type="real" name="uniqueness" value="0.958"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-33.256" y="125.380" fill="#ff8b8b"/>
+</node>
+<node id="GO:48333" label="mesodermal cell differentiation">
+	<att type="string" name="description" value="mesodermal cell differentiation"/>
+	<att type="real" name="value" value="-1.386"/>
+	<att type="real" name="log_size" value="3.006"/>
+	<att type="real" name="uniqueness" value="0.666"/>
+	<att type="real" name="dispensability" value="0.480"/>
+	<graphics type="ELLIPSE" x="-62.963" y="-164.297" fill="#ffa1a1"/>
+</node>
+<node id="GO:45893" label="positive regulation of transcription, DNA-templated">
+	<att type="string" name="description" value="positive regulation of transcription, DNA-templated"/>
+	<att type="real" name="value" value="-2.180"/>
+	<att type="real" name="log_size" value="4.530"/>
+	<att type="real" name="uniqueness" value="0.634"/>
+	<att type="real" name="dispensability" value="0.659"/>
+	<graphics type="ELLIPSE" x="97.028" y="-17.099" fill="#ff6a6a"/>
+</node>
+<node id="GO:50818" label="regulation of coagulation">
+	<att type="string" name="description" value="regulation of coagulation"/>
+	<att type="real" name="value" value="-1.569"/>
+	<att type="real" name="log_size" value="3.402"/>
+	<att type="real" name="uniqueness" value="0.745"/>
+	<att type="real" name="dispensability" value="0.170"/>
+	<graphics type="ELLIPSE" x="66.046" y="-169.962" fill="#ff9494"/>
+</node>
+<node id="GO:7185" label="transmembrane receptor protein tyrosine phosphatase signaling pathway">
+	<att type="string" name="description" value="transmembrane receptor protein tyrosine phosphatase signaling pathway"/>
+	<att type="real" name="value" value="-1.393"/>
+	<att type="real" name="log_size" value="1.732"/>
+	<att type="real" name="uniqueness" value="0.756"/>
+	<att type="real" name="dispensability" value="0.296"/>
+	<graphics type="ELLIPSE" x="178.926" y="-34.787" fill="#ffa0a0"/>
+</node>
+<node id="GO:17015" label="regulation of transforming growth factor beta receptor signaling pathway">
+	<att type="string" name="description" value="regulation of transforming growth factor beta receptor signaling pathway"/>
+	<att type="real" name="value" value="-1.448"/>
+	<att type="real" name="log_size" value="3.420"/>
+	<att type="real" name="uniqueness" value="0.686"/>
+	<att type="real" name="dispensability" value="0.700"/>
+	<graphics type="ELLIPSE" x="157.031" y="-50.237" fill="#ff9c9c"/>
+</node>
+<node id="GO:40017" label="positive regulation of locomotion">
+	<att type="string" name="description" value="positive regulation of locomotion"/>
+	<att type="real" name="value" value="-3.723"/>
+	<att type="real" name="log_size" value="4.048"/>
+	<att type="real" name="uniqueness" value="0.615"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="117.198" y="-114.927" fill="#ff0000"/>
+</node>
+<node id="GO:16049" label="cell growth">
+	<att type="string" name="description" value="cell growth"/>
+	<att type="real" name="value" value="-2.721"/>
+	<att type="real" name="log_size" value="4.294"/>
+	<att type="real" name="uniqueness" value="0.756"/>
+	<att type="real" name="dispensability" value="0.000"/>
+	<graphics type="ELLIPSE" x="-96.216" y="-13.818" fill="#ff4545"/>
+</node>
+<edge id="e0" target="GO:45165" source="GO:1709" directed="false" label="e104">
+	<att type="real" name="weight" value="0.560"/>
+<graphics width="6.991" fill="#edecec"/></edge>
+<edge id="e1" target="GO:45165" source="GO:7398" directed="false" label="e104">
+	<att type="real" name="weight" value="0.408"/>
+<graphics width="5.373" fill="#edecec"/></edge>
+<edge id="e2" target="GO:45165" source="GO:9653" directed="false" label="e104">
+	<att type="real" name="weight" value="0.621"/>
+<graphics width="7.651" fill="#edecec"/></edge>
+<edge id="e3" target="GO:45165" source="GO:45661" directed="false" label="e104">
+	<att type="real" name="weight" value="0.553"/>
+<graphics width="6.924" fill="#edecec"/></edge>
+<edge id="e4" target="GO:45165" source="GO:48333" directed="false" label="e104">
+	<att type="real" name="weight" value="0.539"/>
+<graphics width="6.767" fill="#edecec"/></edge>
+<edge id="e5" target="GO:9966" source="GO:51057" directed="false" label="e104">
+	<att type="real" name="weight" value="0.693"/>
+<graphics width="8.421" fill="#edecec"/></edge>
+<edge id="e6" target="GO:9966" source="GO:48009" directed="false" label="e104">
+	<att type="real" name="weight" value="0.354"/>
+<graphics width="4.786" fill="#edecec"/></edge>
+<edge id="e7" target="GO:9966" source="GO:15893" directed="false" label="e104">
+	<att type="real" name="weight" value="0.340"/>
+<graphics width="4.640" fill="#edecec"/></edge>
+<edge id="e8" target="GO:9966" source="GO:17015" directed="false" label="e104">
+	<att type="real" name="weight" value="0.700"/>
+<graphics width="8.491" fill="#edecec"/></edge>
+<edge id="e9" target="GO:1709" source="GO:7398" directed="false" label="e104">
+	<att type="real" name="weight" value="0.369"/>
+<graphics width="4.949" fill="#edecec"/></edge>
+<edge id="e10" target="GO:1709" source="GO:9653" directed="false" label="e104">
+	<att type="real" name="weight" value="0.534"/>
+<graphics width="6.717" fill="#edecec"/></edge>
+<edge id="e11" target="GO:1709" source="GO:45661" directed="false" label="e104">
+	<att type="real" name="weight" value="0.497"/>
+<graphics width="6.317" fill="#edecec"/></edge>
+<edge id="e12" target="GO:1709" source="GO:48333" directed="false" label="e104">
+	<att type="real" name="weight" value="0.485"/>
+<graphics width="6.191" fill="#edecec"/></edge>
+<edge id="e13" target="GO:7091" source="GO:8361" directed="false" label="e104">
+	<att type="real" name="weight" value="0.326"/>
+<graphics width="4.491" fill="#edecec"/></edge>
+<edge id="e14" target="GO:7398" source="GO:9653" directed="false" label="e104">
+	<att type="real" name="weight" value="0.505"/>
+<graphics width="6.411" fill="#edecec"/></edge>
+<edge id="e15" target="GO:7398" source="GO:45661" directed="false" label="e104">
+	<att type="real" name="weight" value="0.377"/>
+<graphics width="5.033" fill="#edecec"/></edge>
+<edge id="e16" target="GO:7398" source="GO:48333" directed="false" label="e104">
+	<att type="real" name="weight" value="0.544"/>
+<graphics width="6.828" fill="#edecec"/></edge>
+<edge id="e17" target="GO:51272" source="GO:51057" directed="false" label="e104">
+	<att type="real" name="weight" value="0.518"/>
+<graphics width="6.550" fill="#edecec"/></edge>
+<edge id="e18" target="GO:51272" source="GO:45893" directed="false" label="e104">
+	<att type="real" name="weight" value="0.659"/>
+<graphics width="8.054" fill="#edecec"/></edge>
+<edge id="e19" target="GO:51272" source="GO:40017" directed="false" label="e104">
+	<att type="real" name="weight" value="0.562"/>
+<graphics width="7.013" fill="#edecec"/></edge>
+<edge id="e20" target="GO:6518" source="GO:6465" directed="false" label="e104">
+	<att type="real" name="weight" value="0.479"/>
+<graphics width="6.124" fill="#edecec"/></edge>
+<edge id="e21" target="GO:9653" source="GO:45661" directed="false" label="e104">
+	<att type="real" name="weight" value="0.543"/>
+<graphics width="6.815" fill="#edecec"/></edge>
+<edge id="e22" target="GO:9653" source="GO:48333" directed="false" label="e104">
+	<att type="real" name="weight" value="0.526"/>
+<graphics width="6.629" fill="#edecec"/></edge>
+<edge id="e23" target="GO:51057" source="GO:45893" directed="false" label="e104">
+	<att type="real" name="weight" value="0.588"/>
+<graphics width="7.294" fill="#edecec"/></edge>
+<edge id="e24" target="GO:51057" source="GO:17015" directed="false" label="e104">
+	<att type="real" name="weight" value="0.552"/>
+<graphics width="6.908" fill="#edecec"/></edge>
+<edge id="e25" target="GO:51057" source="GO:40017" directed="false" label="e104">
+	<att type="real" name="weight" value="0.508"/>
+<graphics width="6.439" fill="#edecec"/></edge>
+<edge id="e26" target="GO:9395" source="GO:46488" directed="false" label="e104">
+	<att type="real" name="weight" value="0.649"/>
+<graphics width="7.949" fill="#edecec"/></edge>
+<edge id="e27" target="GO:48009" source="GO:7185" directed="false" label="e104">
+	<att type="real" name="weight" value="0.534"/>
+<graphics width="6.721" fill="#edecec"/></edge>
+<edge id="e28" target="GO:48009" source="GO:17015" directed="false" label="e104">
+	<att type="real" name="weight" value="0.649"/>
+<graphics width="7.951" fill="#edecec"/></edge>
+<edge id="e29" target="GO:15893" source="GO:17015" directed="false" label="e104">
+	<att type="real" name="weight" value="0.463"/>
+<graphics width="5.955" fill="#edecec"/></edge>
+<edge id="e30" target="GO:40012" source="GO:40017" directed="false" label="e104">
+	<att type="real" name="weight" value="0.684"/>
+<graphics width="8.319" fill="#edecec"/></edge>
+<edge id="e31" target="GO:45661" source="GO:48333" directed="false" label="e104">
+	<att type="real" name="weight" value="0.480"/>
+<graphics width="6.140" fill="#edecec"/></edge>
+<edge id="e32" target="GO:48333" source="GO:50818" directed="false" label="e104">
+	<att type="real" name="weight" value="0.437"/>
+<graphics width="5.679" fill="#edecec"/></edge>
+<edge id="e33" target="GO:45893" source="GO:40017" directed="false" label="e104">
+	<att type="real" name="weight" value="0.646"/>
+<graphics width="7.922" fill="#edecec"/></edge>
+<edge id="e34" target="GO:7185" source="GO:17015" directed="false" label="e104">
+	<att type="real" name="weight" value="0.562"/>
+<graphics width="7.018" fill="#edecec"/></edge>
+</graph>
